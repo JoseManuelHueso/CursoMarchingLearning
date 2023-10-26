@@ -25,3 +25,11 @@ Día 2 24-10-23
 -dataset_part_1 (Resultado de la modificación del ejercicio SpaceX - 1 - Data Collection Api)
 
 -dataset_part_2 (dataset para realizar los archivos SpaceX 3 y 4)
+
+Día 3 26-10-2023
+
+-Prediccion con Machine Learning de Prophet v2 - Predecir el valor de Bitcoin (Predecir valores)
+
+-Copia de M5 - 06 - Introducción a Machine Learning con Scikit-Learn (Introducción de Machine Learning)
+
+-Copia de M5 - 09 - Folium (Realizar mapas)
