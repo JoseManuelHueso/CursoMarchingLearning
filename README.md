@@ -33,3 +33,11 @@ Día 3 26-10-2023
 -Copia de M5 - 06 - Introducción a Machine Learning con Scikit-Learn (Introducción de Machine Learning)
 
 -Copia de M5 - 09 - Folium (Realizar mapas)
+
+Día 4 27-10-2023
+
+-M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium (Análisis de las ubicaciones de los sitios de lanzamiento)
+
+-M5 - SPACEX2 - 6 - Machine Learning Predicciones (Predicción mediante aprendizaje automático)
+
+-SpaceX - 2 - EDA (Análisis de datos exploratorio)
